@@ -3,7 +3,7 @@
 ## Team Syn'Ax
 
 Members:
-Parita Mendapara
+Parita Mendapara, 
 Mansi Sharma
 
 ## Project Overview
