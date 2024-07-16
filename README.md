@@ -1,5 +1,5 @@
 # Myntra Fashion Challenge: Redefining E-commerce for Gen Z
-Deployed Link : https://myntraprototypesynax.netlify.app
+
 ## Team Syn'Ax
 
 Members:
