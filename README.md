@@ -1,5 +1,5 @@
 # Myntra Fashion Challenge: Redefining E-commerce for Gen Z
-
+Deployed Link : https://myntraprototypesynax.netlify.app
 ## Team Syn'Ax
 
 Members:
@@ -9,7 +9,7 @@ Mansi Sharma
 ## Project Overview
 
 This project aims to revolutionize the Myntra e-commerce experience for Gen Z, igniting their passion for fashion, fostering engagement, and solidifying Myntra as the premier platform for the next generation of fashion icons.
-Deployed Link : https://myntraprototypesynax.netlify.app
+
 
 ## Key Features
 
